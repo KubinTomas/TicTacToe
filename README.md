@@ -7,8 +7,8 @@ One of my first C# projects. I made a basic TicTacToe game. User can set dynamic
 
 
 
-![alt text](https://github.com/KubinTomas/TicTacToe/blob/master/demoImages/startMenu.png)
+![alt text](https://github.com/KubinTomas/TicTacToe/blob/master/demoImages/start.png)
 
-![alt text](https://github.com/KubinTomas/TicTacToe/blob/master/demoImages/field.png)
+![alt text](https://github.com/KubinTomas/TicTacToe/blob/master/demoImages/game.png)
 
-![alt text](https://github.com/KubinTomas/TicTacToe/blob/master/demoImages/endGame.png)
+![alt text](https://github.com/KubinTomas/TicTacToe/blob/master/demoImages/end.png)
