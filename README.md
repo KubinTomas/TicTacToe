@@ -1,5 +1,5 @@
 # TicTacToe
-Created: 18.4 2017
+Created: 18.4.2017
 
 I have decided to create my porfolio and show my programming path.
 
